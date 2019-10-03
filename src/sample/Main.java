@@ -1,5 +1,5 @@
 package sample;
-
+// A miniature of how a TO DO LIST works
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
